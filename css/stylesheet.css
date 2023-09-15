@@ -1,0 +1,23 @@
+@font-face {
+    font-family: MinecraftFive-Regular;
+  src: url("/Fonts/MinecraftFive-Regular.ttf") format("truetype");
+}
+
+body {
+background-color: gold;
+font-family: MinecraftFive-Regular;
+color: purple
+}
+
+h1 {
+background-color: red;
+font-family: MinecraftFive-Regular;
+color: silver;
+text-align: left;
+}
+
+p {
+background-color: blue;
+font-family: MinecraftFive-Regular;
+color: silver
+}
